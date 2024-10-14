@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.inptab{
+    margin-top: 10px;
+}
+label{
+    font-weight: 800;
+}
+.frm{
+    margin-left: 20px;
+    border: 1px solid grey;
+    padding: 20px;
+}
+button{
+    padding: 12px 30px;
+    margin-top: 10px;
+    background-color: rgb(75,110,199);
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+input{
+    margin-left: 20px;
+}
